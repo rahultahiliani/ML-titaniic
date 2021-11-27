@@ -1,2 +1,2 @@
-# ML-titaniic
-A machine learning project with the titanic dataset.
+# ML_titanic
+This is ML_Model
